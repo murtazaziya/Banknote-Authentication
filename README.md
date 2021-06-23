@@ -4,7 +4,7 @@ In this age of advancing technology, it has become extremely important to protec
 
 # Dataset
 
-The dataset used here was Bank Note Authentication UCI data obtained from Kaggle. 
+The dataset used here was Bank Note Authentication UCI data obtained from Kaggle. You can find it here: https://www.kaggle.com/vivekgediya/banknote-authenticationcsv
 Data was extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. 
 
 The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool was used to extract features from images.
